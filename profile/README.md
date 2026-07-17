@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sidanclaw/sidanclaw/main/assets/mascot.png" width="120" />
+<img src="https://raw.githubusercontent.com/use-brian/brian/main/assets/mascot.png" width="120" />
 
 ### Brain, agent, workflows, and docs.
 
 **You make the calls. It does the rest.**
 
-[Website](https://sidan.ai) · [Get started](https://github.com/sidanclaw/sidanclaw) · [Docs](https://sidan.ai/docs)
+[Website](https://usebrian.ai) · [Get started](https://github.com/use-brian/brian) · [Docs](https://usebrian.ai/docs)
 
 </div>
 
@@ -18,8 +18,8 @@ workflow, files the doc, updates the record. You stay on the decisions.
 
 ### Where to look
 
-- **[sidanclaw](https://github.com/sidanclaw/sidanclaw):** the open core. Engine, brain, workflows, docs, frontend. Clone it and run on one model key.
-- **[sidanclaw-tools](https://github.com/sidanclaw/sidanclaw-tools):** community connectors and skills the assistant can load.
-- **[sidanclaw-kb-template](https://github.com/sidanclaw/sidanclaw-kb-template):** a starter knowledge base your assistant queries at runtime.
+- **[Use Brian](https://github.com/use-brian/brian):** the open core. Engine, brain, workflows, docs, frontend. Clone it and run on one model key.
+- **[brian-tools](https://github.com/use-brian/brian-tools):** community connectors and skills the assistant can load.
+- **[brian-kb-template](https://github.com/use-brian/brian-kb-template):** a starter knowledge base your assistant queries at runtime.
 
-⭐ Star [sidanclaw](https://github.com/sidanclaw/sidanclaw) if your current AI has the memory of a goldfish.
+⭐ Star [Use Brian](https://github.com/use-brian/brian) if your current AI has the memory of a goldfish.
