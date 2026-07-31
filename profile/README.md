@@ -21,5 +21,7 @@ workflow, files the doc, updates the record. You stay on the decisions.
 - **[use-brian](https://github.com/use-brian/use-brian):** the open core. Engine, brain, workflows, docs, frontend. Clone it and run on one model key.
 - **[brian-tools](https://github.com/use-brian/brian-tools):** community connectors and skills the assistant can load.
 - **[brian-kb-template](https://github.com/use-brian/brian-kb-template):** a starter knowledge base your assistant queries at runtime.
+- **[brian-app-template](https://github.com/use-brian/brian-app-template):** a starter custom app. Static bundle plus a manifest; renders inside your workspace and reads the brain through a scoped token.
+- **[agent-docs](https://github.com/use-brian/agent-docs):** the docs, rewritten for AI agents. If your assistant is integrating with Use Brian, point it here.
 
 ⭐ Star [use-brian](https://github.com/use-brian/use-brian) if your current AI has the memory of a goldfish.
